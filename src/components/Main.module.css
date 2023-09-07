@@ -1,0 +1,23 @@
+.MainDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 45rem;
+    border-radius: 0.5rem;
+    border: 2px solid black;
+    box-shadow: 5px 0 6px 0 hsl(0deg 0% 0% / 20%);
+    padding: 2rem
+
+}
+
+.MainDivView {
+
+}
+
+.leftEducation {
+    min-width: 400px;
+}
+
+.rightEducation {
+    width: 50%;
+}

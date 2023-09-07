@@ -1,0 +1,11 @@
+.header {
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+    margin-bottom: 2rem;
+}
+
+button {
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+}
